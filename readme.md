@@ -22,6 +22,6 @@ MIT License
 
 
 ## Sample
-<img align="left" src="src/example1.png">
-<img align="left" src="src/example2.png">
+<img align="left" src="https://te.legra.ph/file/4a32aed881ff8519ecccf.jpg">
+<img align="left" src="https://te.legra.ph/file/17594c545b50030a7a055.jpg">
 
