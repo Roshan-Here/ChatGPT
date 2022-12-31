@@ -7,15 +7,16 @@ Just Another Telegram Bot Written In Python Using Pyrogram.
 ## Requirements
 
 - Python 3.6 or higher.
-- [Telegram API key](//docs.pyrogram.org/intro/setup#api-keys).
+- [Telegram API key](https://core.telegram.org/api/obtaining_api_id).
 - [Telegram bot token](//t.me/botfather).
 - [Open API](https://beta.openai.com/).
 
 ## Run Manually
 
 1. `git clone https://github.com/Roshan-Here/ChatGPT`
-2. Edit `Setup.py` with your own variables
-3. `python3 chatgpt.py`
+2. pip install -r requirements.txt
+3. Edit `Setup.py` with your own variables
+4. `python3 chatgpt.py`
 
 ### licence
 MIT License
